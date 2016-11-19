@@ -5,6 +5,7 @@
 // @description  Hou hou!
 // @author       Drakehinst
 // @grant        none
+// @updateURL	 https://github.com/Drakehinst/Surprise/raw/master/surprise.user.js
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // @include      http://game.asylamba.com/*
 // ==/UserScript==
